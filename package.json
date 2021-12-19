@@ -9,7 +9,7 @@
   "license": "ISC",
   "engines":{
     "node":"15.14.0"
-  }
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
